@@ -1,4 +1,6 @@
-# Acunetix v23.11.231123131
+# <h1 align="center"> Acunetix v23.11.231123131 </h1>
+
+<p align="center"> Acunetix is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. </p>
 
 
 
