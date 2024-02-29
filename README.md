@@ -9,6 +9,7 @@
 
 <br></br>
 
+Updates: [Acunetix v24.1](https://github.com/xiv3r/Acunetix-Professional-v24.1)
 
 ### Setups:
 
